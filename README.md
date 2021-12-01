@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/78202013/141317519-fc09beb2-81af-4928-8d6f-a8417a0fbe1f.png)
 
-A Tour Booking App with built using Modern Technologies such as React.js, Node.js, Express.js, MongoDB, Mongoose and Much more.
+A Tour Booking App with built using Modern Technologies such as React.js, Node.js, Express.js, MongoDB, Mongoose and Many more.
 
 Using its own API, it fetches Tours, Users, Tour Reviews and also protects the API from unauthorized requests, 
 resulting in secure communication between the frontend and the backend.
